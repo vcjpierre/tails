@@ -1,6 +1,6 @@
 # Landing Page
 
-Empty project.
+A landing page using Snowpack, PostCSS and Taildwind CSS
 
 ## How to run on localhost
 
