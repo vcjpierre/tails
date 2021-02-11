@@ -26,5 +26,5 @@ npm run build
 
 ## Credits
 
-Made with [createapp.dev](https://createapp.dev/)
+Made with [createapp.dev](https://createapp.dev/) and [TailwindCSS Page Creator](https://devdojo.com/tails)
 
